@@ -1,1 +1,12 @@
-diff commit gif add git diff
+1-diff 
+2-commit 
+3-add
+
+
+
+git commit= esse comando salva as alterações feitas nele, por exemplo essa mensagem /
+
+git add= abre um espaço para fazer um git comit /
+ 
+git diff= ele mostra as alterações feitas nos arquivo /
+
