@@ -1,5 +1,5 @@
-git commit 
-git init
-git diff
-git status
-git add
+git commit  = salva alteracoes
+git init = entra em uma pasta 
+git diff = compara informacoes  de um novo commit
+git status = mostra os status 
+git add = adiciona um espaço novo para commit
